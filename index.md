@@ -4,59 +4,46 @@
 ~~可能有一些神奇的东西~~
 
 ## 存的东西
-[~~网站~~](https://github.com/huangcy208/somethingfun/blob/main/por-site "诶嘿")
+[~~瑟瑟网站~~](https://github.com/huangcy208/funthings_fq/blob/main/por-site "诶嘿")
 
 资源
 
-[一些工具](https://github.com/huangcy208/funthings/releases/tag/v0.1)
+[一些工具](https://github.com/huangcy208/funthings_fq/releases/tag/v0.1)
 
 ## 机场推荐
 
-### 付费机场：
+### lime青柠：
 
-lime青柠：
-
-18¥/季64G（轻度使用足够）
+18￥/季 每月64G（轻度使用足够）
 
 10¥/月128G（基本够用）
 
-解锁主流流媒体
+解锁流媒体（bilibili港澳台，Netflix，巴哈姆特动画疯，YouTube等）
 
-[注册地址点这里](https://limeis.best/#/register?code=Zf5K2GS9)
+[注册地址](https://limeis.best/#/register?code=Zf5K2GS9)
 注册后可试用
 
-alink：
+### alink（正价机场）：
 
-7¥/月256G 便宜流量多（重度使用）
+21.9￥/季 每月128G 流量够
 
-10¥/月512G ~~（太多了，不行）~~
+实际算下来7￥/月
 
-解锁主流流媒体
+12.9￥/月 256G 很多了
 
-[注册地址点这里](https://aln.lnaspiring.com/#/register?code=Nxa5V550)
+解锁流媒体（bilibili港澳台，巴哈姆特动画疯，Youtube等）
+
+[注册地址](https://aln.lnaspiring.com/#/register?code=Nxa5V550))
 注册可试用
 
-efcloud（全直连机场，便宜）：
+### efcloud（原月抛现在涨价了）：
 
-3¥/季100G
+9¥/月 350G（很便宜）
 
-8¥/月1T(1024G)（下载专用）
+24¥/月1T(1024G)（下载专用）
 
-解锁大部分流媒体（Netflix,Disney+,Youtube,bilibili港澳台,巴哈姆特动画疯等）
+20￥ 100G流量包
 
-[注册地址点这里](https://www.efcloud.net/#/register?code=TADkJVyo)
+解锁流媒体
 
-
-fccloud（全中转机场，比较稳，价格稍高，和上面是同一个老板）：
-
-10¥/月150G
-
-30¥/月600G
-
-解锁主流流媒体
-
-[注册地址点这里](https://www.fccloud.cc/#/register?code=z1dIk4ZP)
-
-### 免费机场
-
-要知道，这年头免费的都不怎么稳定，两会召开更能把你整的够呛
+[注册地址](https://invite.efshop.cc/#/register?code=TADkJVyo)
