@@ -4,11 +4,11 @@
 ~~可能有一些神奇的东西~~
 
 ## 存的东西
-[~~瑟瑟网站（？）~~](https://github.com/huangcy208/funthings_fq/blob/main/por-site "诶嘿")
+[~~瑟瑟网站（？）~~](https://github.com/therebefor/funthings_fq/blob/main/por-site "诶嘿")
 
 资源
 
-[一些工具](https://github.com/huangcy208/funthings_fq/releases/tag/v0.1)
+[一些工具](https://github.com/therebefor/funthings_fq/releases/tag/v0.1)
 
 ## 机场推荐（排名由推荐度从高到低）
 
